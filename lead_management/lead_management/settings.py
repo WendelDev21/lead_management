@@ -58,7 +58,7 @@ REST_FRAMEWORK = {
 
 
 SPECTACULAR_SETTINGS = {
-    'TITLE': 'API de Gerenciamento de Leads',
+    'TITLE': 'Lead Management - API',
     'DESCRIPTION': 'Documentação da API para gerenciar leads',
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
