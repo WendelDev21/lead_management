@@ -3,5 +3,5 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('leads.urls')),  # Incluir as rotas do app 'leads'
+    path('api/', include('leads.urls')),
 ]
