@@ -1,7 +1,3 @@
-Aqui está um exemplo de `README.md` para a sua API de gerenciamento de leads:
-
----
-
 # API de Gerenciamento de Leads
 
 Esta é uma API simples de gerenciamento de leads desenvolvida com **Django** e **Django REST Framework**. A API permite realizar operações básicas de CRUD (criar, ler, atualizar e excluir) em uma lista de leads.
